@@ -1,0 +1,5 @@
+Activo Corriente [p4]: $348.627,15
+Pasivo Corriente [p4]: $434.220,24
+Pasivo Total [p4]: $434.220,24
+Patrimonio neto [p4]: $122.530,02
+Ganancia/utilidad neta [p5]: $115.630,02

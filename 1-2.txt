@@ -1,0 +1,4 @@
+Año, Liquidez [r5-1], Rentabilidad [r5-3], Endeudamiento [r5-2]
+2014, Infn, -0.74, 0.00
+2015, 0.80,  0.94, 3.54
+2016, 0.93,  0.68, 4.11
