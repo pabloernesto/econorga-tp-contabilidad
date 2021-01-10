@@ -1,0 +1,4 @@
+Indices financieros (relevantes al tp):
+- Liquidez [r5-1]
+- Rentabilidad
+- Deuda [r5-2]

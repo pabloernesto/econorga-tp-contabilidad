@@ -1,0 +1,5 @@
+Indice acido de liquidez = (Activo Corriente - Inventarios) / Pasivo Corriente
+
+Capacidad de la empresa para pagar sus obligaciones, descontando ingresos por ventas.
+
+slide 34

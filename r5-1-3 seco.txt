@@ -1,0 +1,3 @@
+Indice seco de liquidez = (Activo Corriente - Bienes de Cambio - Creditos Corrientes) / Pasivo Corriente
+
+slide 36

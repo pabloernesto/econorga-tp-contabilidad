@@ -1,0 +1,7 @@
+Estándard propuesto para evaluar índice de liquidez:
+- menor a 1: insuficiente
+- 1 a 1.2: normal
+- 1.2 a 1.5: bueno
+- mayor a 1.5: holgado
+
+slide 33

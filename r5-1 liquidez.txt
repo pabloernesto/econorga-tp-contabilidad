@@ -1,0 +1,5 @@
+Indice de Liquidez = Activo Corriente / Pasivo Corriente
+
+Representa la disponibilidad de fondos para afrontar los pasivos de CP (?)
+
+slide 33

@@ -1,0 +1,7 @@
+Estándard propuesto para evaluar índice de endeudamiento:
+- menor a 1: muy bueno
+- 1: bueno
+- 1 a 1.5: delicado
+- mayor a 1.5: muy elevado
+
+slide 39
